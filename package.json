@@ -1,0 +1,24 @@
+{
+  "name": "extra-isin",
+  "version": "0.0.1",
+  "description": "An ISIN is a 12-digit code that uniquely identifies a specific security.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-isin.git"
+  },
+  "keywords": [
+    "extra",
+    "isin"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-isin/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-isin#readme"
+}
