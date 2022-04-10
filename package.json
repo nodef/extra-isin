@@ -1,6 +1,6 @@
 {
   "name": "extra-isin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An ISIN is a 12-digit code that uniquely identifies a specific security.",
   "private": true,
   "main": "index.js",
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/nodef/extra-isin/issues"
   },
-  "homepage": "https://github.com/nodef/extra-isin#readme"
+  "homepage": "https://github.com/nodef/extra-isin#readme",
+  "devDependencies": {
+    "download": "^8.0.0",
+    "extra-fyers": "^1.3.3",
+    "extra-sleep": "^0.0.6"
+  }
 }
